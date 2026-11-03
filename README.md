@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Luan 👋
 
-<!--
-**luansillva555/luansillva555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software**  
+💻 Explorando desenvolvimento de software e tecnologia  
+🌱 Em aprendizado contínuo sobre programação, redes, inteligência artificial e outras áreas da computação.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Uso este perfil para compartilhar projetos, estudos e minha evolução na Engenharia de Software. Tenho interesse em aprender como diferentes áreas da tecnologia se conectam e em transformar esse aprendizado em projetos práticos.
+
+## Projetos
+
+### [TechManager](https://github.com/luansillva555/TechManager)
+Sistema de gestão de serviços de TI. Consulte o repositório para ver o código e os detalhes do projeto.
+
+### [Meu primeiro projeto](https://github.com/luansillva555/meu-primeiro-projeto)
+Projeto inicial criado durante meus estudos e primeiros passos com desenvolvimento.
+
+## Áreas que estou estudando
+
+- Engenharia e desenvolvimento de software
+- Linguagens de programação
+- Redes de computadores
+- Inteligência artificial
+- Fundamentos de computação
+
+## Contato
+
+- GitHub: [@luansillva555](https://github.com/luansillva555)
+
+---
+
+*Este perfil acompanha minha jornada de aprendizado. Novos projetos e conhecimentos serão adicionados conforme eu avançar.*
