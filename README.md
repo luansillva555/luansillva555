@@ -10,6 +10,9 @@ Uso este perfil para compartilhar projetos, estudos e minha evolução na Engenh
 
 ## Projetos
 
+### [Trilha — Organizador de estudos](https://github.com/luansillva555/trilha-estudos)
+Aplicação web feita com HTML, CSS e JavaScript puro para organizar tarefas de estudo, acompanhar progresso e filtrar atividades. Os dados ficam salvos no navegador.
+
 ### [TechManager](https://github.com/luansillva555/TechManager)
 Sistema de gestão de serviços de TI. Consulte o repositório para ver o código e os detalhes do projeto.
 
